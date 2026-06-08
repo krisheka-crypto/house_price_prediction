@@ -101,16 +101,6 @@ house_price_prediction/
 
 ---
 
-## Application Interface
-
-### Prediction Dashboard
-
-[Insert Streamlit Application Screenshot Here]
-
-### Sample Prediction Output
-
-[Insert Prediction Result Screenshot Here]
-
 ---
 
 ## Installation
