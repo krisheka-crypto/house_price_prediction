@@ -74,11 +74,11 @@ The dataset was analyzed to understand feature distributions and relationships w
 
 | Model             | R² Score |
 | ----------------- | -------- |
-| Linear Regression | XX       |
-| Random Forest     | XX       |
-| Extra Trees       | XX       |
+| Linear Regression | 0.7532   |
+| Random Forest     | 0.7463   |
+| Extra Trees       |0.7205    |
 | Gradient Boosting | 0.7746   |
-| XGBoost           | XX       |
+| XGBoost           |0.7539    |
 
 ### Best Performing Model
 
