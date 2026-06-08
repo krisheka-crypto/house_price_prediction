@@ -42,23 +42,6 @@ The following features were used for prediction:
 
 ---
 
-## Exploratory Data Analysis
-
-The dataset was analyzed to understand feature distributions and relationships with house prices.
-
-### Correlation Heatmap
-
-[Insert Correlation Heatmap Screenshot Here]
-
-### Feature Relationship Analysis
-
-[Insert Scatter Plot Screenshot Here]
-
-### Feature Importance Analysis
-
-[Insert Feature Importance Screenshot Here]
-
----
 
 ## Machine Learning Models Evaluated
 
